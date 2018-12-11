@@ -1,0 +1,36 @@
+{
+  "bot":true,
+  "comment":"/* wbsetclaim-create:2||1 */ [[Property:P5875]]: 297600706, add [[Property:P5875|ResearchGate publication ID]]",
+  "id":803573297,
+  "length":{
+    "new":19573,
+    "old":19222
+  },
+  "meta":{
+    "domain":"www.wikidata.org",
+    "dt":"2018-10-19T18:29:32+00:00",
+    "id":"ebf09b25-d3cc-11e8-8fd6-b083fecf0dc3",
+    "request_id":"53d71a4e-c644-41e2-9027-e082d771f9df",
+    "schema_uri":"mediawiki/recentchange/2",
+    "topic":"eqiad.mediawiki.recentchange",
+    "uri":"https://www.wikidata.org/wiki/Q55951908",
+    "partition":0,
+    "offset":1142092407
+  },
+  "minor":false,
+  "namespace":0,
+  "parsedcomment":"‎<span dir=\"auto\"><span class=\"autocomment\">Created claim: </span></span> <a href=\"/wiki/Property:P5875\" title=\"Property:P5875\">Property:P5875</a>: 297600706, add <a href=\"/wiki/Property:P5875\" title=\"Property:P5875\">ResearchGate publication ID</a>",
+  "patrolled":true,
+  "revision":{
+    "new":767904987,
+    "old":759905244
+  },
+  "server_name":"www.wikidata.org",
+  "server_script_path":"/w",
+  "server_url":"https://www.wikidata.org",
+  "timestamp":1539973772,
+  "title":"Q55951908",
+  "type":"edit",
+  "user":"PintochBot",
+  "wiki":"wikidatawiki"
+}
